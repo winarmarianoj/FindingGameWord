@@ -30,9 +30,14 @@ Opciones de juego:
 Puede re iniciar el Juego sin tener que salir, (haya ganado o perdido en la partida
 anterior), seleccionando la opción RESTART.
 Cuando lo decida, puede salir del juego presionando la opción QUIT.
+
 En el caso que debas instalar en tu PC el programa Java, gratiuitamente podes hacerlo
 desde el siguiente link:
+
 https://www.java.com/es/download/
+
 Gracias y disfrute del juego!!
+
 Bendiciones en el Nombre de Jesús!!!
+
 Made in Argentina by Mariano Wiñar
